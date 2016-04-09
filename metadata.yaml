@@ -1,0 +1,36 @@
+_repo: What-Maisie-Knew_7118
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: After her parents' bitter divorce, young Maisie Farange finds herself
+  shuttled between her selfish mother and vain father, who value her only as a means
+  for provoking each other. Maisie -- solitary, observant and wise beyond her years
+  -- is drawn into an increasingly entangled adult world of intrigue and sexual betrayal,
+  until she is finally compelled to choose her own future. What Maisie Knew is a subtle
+  yet devastating portrayal of an innocent adrift in a corrupt society. Part of a
+  relaunch of three James titles.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Remarried people -- Fiction'
+- !lcsh 'Children of divorced parents -- Fiction'
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'Girls -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: What Maisie Knew
+url: http://www.gutenberg.org/ebooks/7118
